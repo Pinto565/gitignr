@@ -8,11 +8,15 @@
   "scripts": {
     "start": "tsc && dist/app.js"
   },
+  "keywords": [
+    "gitignore",
+    "git"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pinto565/dot-gitignore.git"
   },
-  "author": "Fabian Ferno",
+  "author": "Pinto Infant",
   "bugs": {
     "url": "https://github.com/Pinto565/dot-gitignore/issues"
   },

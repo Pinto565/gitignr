@@ -6,7 +6,7 @@ import { allTypes, singleType } from "./lib"
 const program = new Command();
 
 program
-  .name('dot-gitignore')
+  .name('gitignore')
   .description('CLI to add gitignore for your projects')
   .version('1.0.0');
 

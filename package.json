@@ -1,13 +1,22 @@
 {
   "name": "dot-gitignore",
   "version": "1.0.0",
-  "main": "src/app.ts",
+  "main": "dist/app.js",
   "license": "MIT",
   "preferGlobal": true,
   "bin": "./dist/app.js",
   "scripts": {
     "start": "tsc && dist/app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinto565/dot-gitignore.git"
+  },
+  "author": "Fabian Ferno",
+  "bugs": {
+    "url": "https://github.com/Pinto565/dot-gitignore/issues"
+  },
+  "homepage": "https://github.com/Pinto565/dot-gitignore#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "commander": "^9.3.0",

@@ -7,7 +7,7 @@ const program = new commander_1.Command();
 program
     .name('dot-gitignore')
     .description('CLI to add gitignore for your projects')
-    .version('0.0.1');
+    .version('1.0.0');
 program
     .option('-t, --type <type>', 'add gitignore for specified type');
 const options = program.opts();

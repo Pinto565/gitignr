@@ -6,9 +6,9 @@ import { allTypes, singleType } from "./lib"
 const program = new Command();
 
 program
-  .name('gitignr')
+  .name('gitignre')
   .description('CLI to add gitignore for your projects')
-  .version('1.0.1');
+  .version('1.0.0');
 
 program
   .option('-t, --type <type>', 'add gitignore for specified type');

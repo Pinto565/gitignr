@@ -1,4 +1,4 @@
-# gitignr
+# gitignre
 
 A Node CLI to add `.gitignore` files for any of your new projects
 
@@ -8,17 +8,17 @@ A Node CLI to add `.gitignore` files for any of your new projects
 
 ### Install
 
-    npm install gitignr -g
+    npm install gitignre -g
  
 
 ### Usage
 
 To list out all of the available types:
 
-    gitignr
+    gitignre
 
 To create a `.gitignore` for node project:
 
-    gitignr node
+    gitignre node
 
 That's it.

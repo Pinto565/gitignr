@@ -1,0 +1,23 @@
+{
+  "name": "dot-gitignore",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": "./dist/app.js",
+  "scripts": {
+    "start": "tsc && dist/app.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "commander": "^9.3.0",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}

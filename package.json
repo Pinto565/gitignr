@@ -1,6 +1,6 @@
 {
   "name": "gitignr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/app.js",
   "license": "MIT",
   "preferGlobal": true,
@@ -14,13 +14,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pinto565/dot-gitignore.git"
+    "url": "git+https://github.com/Pinto565/gitignr.git"
   },
   "author": "Pinto Infant",
   "bugs": {
-    "url": "https://github.com/Pinto565/dot-gitignore/issues"
+    "url": "https://github.com/Pinto565/gitignr/issues"
   },
-  "homepage": "https://github.com/Pinto565/dot-gitignore#readme",
+  "homepage": "https://github.com/Pinto565/gitignr#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "commander": "^9.3.0",

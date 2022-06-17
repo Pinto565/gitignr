@@ -1,5 +1,5 @@
 {
-  "name": "@pintoinfant/gitignore",
+  "name": "gitignr",
   "version": "1.0.0",
   "main": "dist/app.js",
   "license": "MIT",

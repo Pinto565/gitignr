@@ -5,7 +5,7 @@ const commander_1 = require("commander");
 const lib_1 = require("./lib");
 const program = new commander_1.Command();
 program
-    .name('gitignore')
+    .name('gitignr')
     .description('CLI to add gitignore for your projects')
     .version('1.0.0');
 program

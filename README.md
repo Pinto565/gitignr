@@ -15,10 +15,10 @@ A Node CLI to add `.gitignore` files for any of your new projects
 
 To list out all of the available types:
 
-    gitignore
+    gitignr
 
 To create a `.gitignore` for node project:
 
-    gitignore node
+    gitignr node
 
 That's it.
